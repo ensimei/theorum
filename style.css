@@ -12,7 +12,7 @@ p,a, h2, li{
 	color:#2E5077 ;
 }
 div#banniere{
-background-image: url("image/ciel-et4.jpg");
+background-image: url("ciel-et4.jpg");
 height: 100px;
 margin-bottom: 50px;
 background-size: cover;
